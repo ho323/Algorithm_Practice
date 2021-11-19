@@ -1,5 +1,5 @@
 # Algorithm_Practice
-1일 1코딩테스트
+코딩 실력 키우기
 
 ### 문제 출처
 - Programmers
